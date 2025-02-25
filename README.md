@@ -21,9 +21,8 @@ In this repository, we present **Wan2.1**, a comprehensive and open suite of vid
 
 ## Video Demos
 
-<div align="center">
-  <video src="https://cloud.video.taobao.com/vod/Jth64Y7wNoPcJki_Bo1ZJTDBvNjsgjlVKsNs05Fqfps.mp4" width="70%"> </video>
-</div>
+
+<video src='https://cloud.video.taobao.com/vod/Jth64Y7wNoPcJki_Bo1ZJTDBvNjsgjlVKsNs05Fqfps.mp4' width=180/>
 
 ## 🔥 Latest News!!
 
