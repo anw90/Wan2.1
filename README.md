@@ -22,10 +22,7 @@ In this repository, we present **Wan2.1**, a comprehensive and open suite of vid
 ## Video Demos
 
 <div align="center">
-    <video width="80%" controls>
-        <source src="https://cloud.video.taobao.com/vod/Jth64Y7wNoPcJki_Bo1ZJTDBvNjsgjlVKsNs05Fqfps.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+  <video src="https://cloud.video.taobao.com/vod/Jth64Y7wNoPcJki_Bo1ZJTDBvNjsgjlVKsNs05Fqfps.mp4" width="70%"> </video>
 </div>
 
 ## 🔥 Latest News!!
